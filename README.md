@@ -130,4 +130,4 @@ Testing across multiple regional datasets
 
 
 Author:Bhanu Prakash Sunchu
-B.Tech – CSE (Artificial Intelligence & Machine Learning) ans Python Developer.
+B.Tech – CSE (Artificial Intelligence & Machine Learning) and Python Developer.
