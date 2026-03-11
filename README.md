@@ -115,22 +115,6 @@ F1-score: ~0.90
 
 The model effectively identifies abnormal electricity consumption behavior and helps detect potential electricity theft cases.
 
-Project Structure
-Electricity-Theft-Detection/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── electricity_theft_detection.ipynb
-│
-├── src/
-│   └── model_training.py
-│
-├── results/
-│   └── confusion_matrix.png
-│
-└── README.md
 Future Improvements
 
 Integration with real-time smart grid monitoring systems
@@ -143,17 +127,7 @@ Implementation of Explainable AI (XAI) techniques
 
 Testing across multiple regional datasets
 
-Applications
 
-Electricity theft detection in smart grids
 
-Reducing non-technical losses in power distribution
-
-Supporting utility inspection planning
-
-Improving energy monitoring and grid stability
-
-Author
-
-Bhanu Prakash Sunchu
-B.Tech – CSE (Artificial Intelligence & Machine Learning)
+Author:Bhanu Prakash Sunchu
+B.Tech – CSE (Artificial Intelligence & Machine Learning) ans Python Developer.
